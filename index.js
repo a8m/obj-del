@@ -20,7 +20,7 @@ function deleteFn(s, path) {
 /**
  * @description
  * get multiple paths and call deleteFn with each path.
- * return array of results.
+ * returns the giving object after changing
  * @param obj
  * @returns {Array}
  */
