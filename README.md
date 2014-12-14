@@ -5,7 +5,7 @@
 [![Dependency Status][david-image]][david-url]
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
-> Remove multiple keys by path
+> Remove multiple keys by path - safety.
 
 ## Install
 
@@ -41,3 +41,5 @@ MIT © [Ariel Mashraki](https://github.com/a8m)
 [license-url]: LICENSE
 [downloads-image]: http://img.shields.io/npm/dm/obj-del.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/obj-del
+
+[![Coverage Status](https://coveralls.io/repos/a8m/obj-del/badge.png?branch=v0.1.0)](https://coveralls.io/r/a8m/obj-del?branch=v0.1.0)
